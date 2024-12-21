@@ -1,5 +1,5 @@
 ## Hi there 👋
-<!--
+
 **gula1111/gula1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mikolajgul@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m passionate about sailing and spend my free time navigating the waters!  
--->
+
